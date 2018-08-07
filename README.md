@@ -1,8 +1,7 @@
 # onigiri_war
 OneNightROBOCON競技「onigiri war」プロジェクト
 
-ロボットで戦車対戦をするようなゲームです。
-大砲で撃つ代わりに、カメラでターゲットのARマーカーを読み取ります。
+ラヴィ！のFork先
 
 
 ## 目次
